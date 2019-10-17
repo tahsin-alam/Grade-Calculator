@@ -19,4 +19,9 @@ The input file should contain the data according to the value of x and y. For ex
 
 
 
+In this program we will have to handle diffrenet system call and process. We will create two manager and each manager will manage two workers. Each worker then handle each column of that specific text file conataining student's grade. Since, there are four columns so we will have four workers. Each worker will print out the average for each column. 
 
+###  Linux Terminal
+<img width="593" alt="Capture3" src="https://user-images.githubusercontent.com/36938994/66975120-6ea53b00-f06b-11e9-885c-088ba633d3b8.PNG">
+
+The purpose of this project was to understand how simple command interpreter work and how to create different system call to interact with the process. 
